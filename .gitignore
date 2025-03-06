@@ -1,0 +1,79 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Сборки и временные файлы
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.log
+*.cache
+*.tmp
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# .NET SDK
+.vscode/
+.ionide/
+.localhistory/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.csproj.user
+*.vcxproj.user
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Пользовательские конфиги
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+.env
+*.key
+
+# Логи и временные файлы
+logs/
+*.log
+*.tlog
+*.cache
